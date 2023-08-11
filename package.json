@@ -12,5 +12,8 @@
   },
   "dependencies": {
     "polished": "^4.2.2"
+  },
+  "devDependencies": {
+    "turbo": "^1.10.12"
   }
 }
