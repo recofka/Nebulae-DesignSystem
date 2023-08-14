@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@storybook/addon-docs": "^7.2.3",
     "@storybook/addon-essentials": "^7.2.2",
     "@storybook/addon-interactions": "^7.2.2",
     "@storybook/addon-links": "^7.2.2",
@@ -26,10 +27,10 @@
     "vite": "^4.4.9"
   },
   "dependencies": {
+    "@nebula-ui/eslint-config": "*",
     "@nebula-ui/react": "*",
     "@nebula-ui/tokens": "*",
     "@nebula-ui/ts-config": "*",
-    "@nebula-ui/eslint-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
