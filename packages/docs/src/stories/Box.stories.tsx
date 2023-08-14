@@ -1,5 +1,5 @@
-import type { Meta, StoryObj } from '@storybook/react';
-import { Box, BoxProps, Text } from '@nebula-ui/react';
+import type { Meta, StoryObj } from '@storybook/react'
+import { Box, BoxProps, Text } from '@nebula-ui/react'
 
 export default {
   title: 'Surfaces/Box',
@@ -8,6 +8,6 @@ export default {
   args: {
     children: <Text>Test</Text>,
   },
-} as Meta<BoxProps>;
+} as Meta<BoxProps>
 
-export const Primary: StoryObj<BoxProps> = {};
+export const Primary: StoryObj<BoxProps> = {}
