@@ -1,12 +1,12 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { Box, BoxProps } from '@nebula-ui/react';
+import { Box, BoxProps, Text } from '@nebula-ui/react';
 
 export default {
   title: 'Surfaces/Box',
   component: Box,
 
   args: {
-    children: <><span>Teste</span></>,
+    children: <Text>Test</Text>,
   },
 } as Meta<BoxProps>;
 
