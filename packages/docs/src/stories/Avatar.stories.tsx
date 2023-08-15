@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/recofka.png',
     alt: 'Denise Recofka',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}

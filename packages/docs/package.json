@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@storybook/addon-a11y": "^7.3.0",
     "@storybook/addon-docs": "^7.2.3",
     "@storybook/addon-essentials": "^7.2.2",
     "@storybook/addon-interactions": "^7.2.2",
@@ -24,6 +25,7 @@
     "@vitejs/plugin-react": "^4.0.4",
     "prop-types": "^15.8.1",
     "storybook": "^7.2.2",
+    "storybook-addon-pseudo-states": "^2.1.0",
     "vite": "^4.4.9"
   },
   "dependencies": {
