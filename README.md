@@ -9,16 +9,16 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/recofka/Nebulae-Design-System?style=flat-square">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/languages/top/recofka/Nebulae-Design-System?style=flat-square">
+  <img alt="Repository issues" src="https://img.shields.io/github/languages/top/recofka/Nebulae-DesignSystem?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/recofka/Nebulae-Design-System?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/recofka/Nebulae-DesignSystem?style=flat-square">
 
   <a href="https://github.com/recofka/Nebulae-Design-System/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/recofka/Nebulae-Design-System?style=flat-square">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/recofka/Nebulae-DesignSystem?style=flat-square">
   </a>
 
-  <a href="https://github.com/recofka/Nebulae-Design-System/actions/workflows/deploy-docs.yml">
-   <img alt="GitHub Actions" src="https://github.com/recofka/Nebulae-Design-System/actions/workflows/deploy-docs.yml/badge.svg?branch=main"/>
+  <a href="https://github.com/recofka/Nebulae-DesignSystem/actions/workflows/deploy-docs.yml">
+   <img alt="GitHub Actions" src="https://github.com/recofka/Nebulae-DesignSystem/actions/workflows/deploy-docs.yml/badge.svg?branch=main"/>
   </a>
 </p>
 
@@ -69,7 +69,7 @@ This Design System also defines a set of reusable styles, including color palett
 
 ## Frontend
 
-[Click here and check out the result](https://recofka.github.io/Nebulae-Design-System/).
+[Click here and check out the result](https://recofka.github.io/Nebulae-DesignSystem/).
 
 <details>
 <summary><h2>Goals</h2></summary>
@@ -92,7 +92,7 @@ This Design System also defines a set of reusable styles, including color palett
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:recofka/Nebulae-Design-System
+$ git clone git@github.com:recofka/Nebulae-DesignSystem
 
 # Install all dependencies running:
 $ npm install
