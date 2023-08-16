@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Avatar, AvatarProps } from '@nebula-ui/react'
+import { Avatar, AvatarProps } from '@nebulae-ui/react'
 
 export default {
   title: 'Data Display/Avatar',

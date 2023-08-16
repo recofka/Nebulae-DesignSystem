@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Heading, HeadingProps } from '@nebula-ui/react'
+import { Heading, HeadingProps } from '@nebulae-ui/react'
 
 export default {
   title: 'Typography/Heading',

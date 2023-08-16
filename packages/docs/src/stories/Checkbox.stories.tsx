@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, Checkbox, CheckboxProps } from '@nebula-ui/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@nebulae-ui/react'
 
 export default {
   title: 'Form/Checkbox',

@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, BoxProps, Text } from '@nebula-ui/react'
+import { Box, BoxProps, Text } from '@nebulae-ui/react'
 
 export default {
   title: 'Surfaces/Box',

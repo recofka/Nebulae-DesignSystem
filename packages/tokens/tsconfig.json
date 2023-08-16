@@ -1,4 +1,4 @@
 {
-    "extends": "@nebula-ui/ts-config/base.json",
+    "extends": "@nebulae-ui/ts-config/base.json",
     "include": ["src"]
   }

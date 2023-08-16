@@ -1,4 +1,4 @@
-import { colors } from '@nebula-ui/tokens'
+import { colors } from '@nebulae-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

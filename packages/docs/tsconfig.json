@@ -1,1 +1,1 @@
-{ "extends": "@nebula-ui/ts-config/react.json", "include": ["src"] }
+{ "extends": "@nebulae-ui/ts-config/react.json", "include": ["src"] }

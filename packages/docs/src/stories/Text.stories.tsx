@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Text, TextProps } from '@nebula-ui/react'
+import { Text, TextProps } from '@nebulae-ui/react'
 
 export default {
   title: 'Typography/Text',

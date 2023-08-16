@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, ButtonProps } from '@nebula-ui/react'
+import { Button, ButtonProps } from '@nebulae-ui/react'
 import { ArrowRight } from 'phosphor-react'
 
 export default {

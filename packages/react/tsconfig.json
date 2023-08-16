@@ -1,4 +1,4 @@
 {
-    "extends": "@nebula-ui/ts-config/react.json",
+    "extends": "@nebulae-ui/ts-config/react.json",
     "include": ["src"]
   }

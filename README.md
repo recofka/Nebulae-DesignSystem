@@ -1,24 +1,24 @@
-<h1 align="center">Design System Nebula</h1>
+<h1 align="center">Design System Nebulae</h1>
 
 
  <p align="center">
- Welcome to Nebula Design System! This repository serves as a monorepo containing the components, styles, and design guidelines used in the online scheduling application. Developed using React and Storybook, this design system aims to provide visual and functional consistency throughout the application.
+ Welcome to Nebulae Design System! This repository serves as a monorepo containing the components, styles, and design guidelines used in the online scheduling application. Developed using React and Storybook, this design system aims to provide visual and functional consistency throughout the application.
  </p>
 
 <p align="center">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/recofka/Nebula-Design-System?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/recofka/Nebulae-Design-System?style=flat-square">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/languages/top/recofka/Nebula-Design-System?style=flat-square">
+  <img alt="Repository issues" src="https://img.shields.io/github/languages/top/recofka/Nebulae-Design-System?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/recofka/Nebula-Design-System?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/recofka/Nebulae-Design-System?style=flat-square">
 
-  <a href="https://github.com/recofka/Nebula-Design-System/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/recofka/Nebula-Design-System?style=flat-square">
+  <a href="https://github.com/recofka/Nebulae-Design-System/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/recofka/Nebulae-Design-System?style=flat-square">
   </a>
 
-  <a href="https://github.com/recofka/Nebula-Design-System/actions/workflows/deploy-docs.yml">
-   <img alt="GitHub Actions" src="https://github.com/recofka/Nebula-Design-System/actions/workflows/deploy-docs.yml/badge.svg?branch=main"/>
+  <a href="https://github.com/recofka/Nebulae-Design-System/actions/workflows/deploy-docs.yml">
+   <img alt="GitHub Actions" src="https://github.com/recofka/Nebulae-Design-System/actions/workflows/deploy-docs.yml/badge.svg?branch=main"/>
   </a>
 </p>
 
@@ -45,10 +45,10 @@ This project was developed with the following technologies:
 - [Turborepo](https://turbo.build/)
 
 ## Project
-Nebula is developed using Storybook, which makes it easy to explore and visualize the available components.
+Nebulae is developed using Storybook, which makes it easy to explore and visualize the available components.
 
 #### Components
-The Nebula Design System offers the following core components:
+The Nebulae Design System offers the following core components:
 
 - Box
 - Text
@@ -69,7 +69,7 @@ This Design System also defines a set of reusable styles, including color palett
 
 ## Frontend
 
-[Click here and check out the result](https://recofka.github.io/Nebula-Design-System/).
+[Click here and check out the result](https://recofka.github.io/Nebulae-Design-System/).
 
 <details>
 <summary><h2>Goals</h2></summary>
@@ -92,7 +92,7 @@ This Design System also defines a set of reusable styles, including color palett
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:recofka/Nebula-Design-System
+$ git clone git@github.com:recofka/Nebulae-Design-System
 
 # Install all dependencies running:
 $ npm install

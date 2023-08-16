@@ -1,5 +1,5 @@
 {
-  "name": "@nebula-ui/tokens",
+  "name": "@nebulae-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@nebula-ui/ts-config": "*",
-    "@nebula-ui/eslint-config": "*",
+    "@nebulae-ui/ts-config": "*",
+    "@nebulae-ui/eslint-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.1.6"
   }

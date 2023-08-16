@@ -1,5 +1,5 @@
 {
-  "name": "@nebula-ui/eslint-config",
+  "name": "@nebulae-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",
