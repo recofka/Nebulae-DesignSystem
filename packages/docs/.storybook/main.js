@@ -1,4 +1,3 @@
-
 module.exports = {
   "stories": [
     "../src/pages/**/*.stories.mdx",
