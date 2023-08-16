@@ -22,7 +22,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/Nebula-Design-System/'
+      config.base = '/Nebulae-DesignSystem/'
     }
 
     return config
