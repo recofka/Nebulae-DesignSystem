@@ -7,7 +7,7 @@
 
 <p align="center">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/recofka/Nebulae-Design-System?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/recofka/Nebulae-DesignSystem?style=flat-square">
 
   <img alt="Repository issues" src="https://img.shields.io/github/languages/top/recofka/Nebulae-DesignSystem?style=flat-square">
 
